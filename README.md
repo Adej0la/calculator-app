@@ -10,4 +10,4 @@ I also learnt to use the `Intl.NumberFormat` method to format the integer so tha
 
 ## Live App
 
-The live app can be accessed on:
+The live app can be accessed on: https://bit.ly/359R7zl
