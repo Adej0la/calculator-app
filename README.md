@@ -10,4 +10,8 @@ I also learnt to use the `Intl.NumberFormat` method to format the integer so tha
 
 ## Live App
 
-The live app can be accessed on: https://bit.ly/359R7zl
+The live app can be accessed on:
+
+- https://calculator-app-adej0la.vercel.app
+- https://calculator-app-git-main-adej0la.vercel.app
+- https://calculator-app-orcin-rho.vercel.app
